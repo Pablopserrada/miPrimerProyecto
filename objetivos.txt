@@ -1,1 +1,2 @@
 1. Comprender a la perfección las funciones de un desarrollador Front End y Back End, y cómo se deben combinar para ser un Full Stack.
+2. Aprender a programar en lenguajes que me sirvan en el mundo laboral y me permitan desarrollar mejor mi trabajo.
